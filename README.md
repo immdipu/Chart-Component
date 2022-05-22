@@ -8,8 +8,8 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/chart-component-using-html-css-and-javascript-iQNbx4RzNz]()
-- Live Site URL: [https://admirable-marshmallow-fc0f00.netlify.app/]()
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/chart-component-using-html-css-and-javascript-iQNbx4RzNz)
+- Live Site URL: [](https://admirable-marshmallow-fc0f00.netlify.app/)
 
 ### Built with
 
